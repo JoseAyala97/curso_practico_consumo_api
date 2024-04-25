@@ -1,0 +1,19 @@
+{
+  "name": "curso_practico_consumo_api",
+  "version": "1.0.0",
+  "description": "curso_practico_consumo_api",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseAyala97/curso_practico_consumo_api.git"
+  },
+  "author": "@joseayala97",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseAyala97/curso_practico_consumo_api/issues"
+  },
+  "homepage": "https://github.com/JoseAyala97/curso_practico_consumo_api#readme"
+}
