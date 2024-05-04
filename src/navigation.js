@@ -1,3 +1,4 @@
+//navegation
 searchFormBtn.addEventListener('click', () => {
 location.hash = '#search=';
 });
